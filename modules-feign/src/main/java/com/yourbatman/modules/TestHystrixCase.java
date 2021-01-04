@@ -19,6 +19,4 @@ public class TestHystrixCase {
         String result = client.getDemo1("YourBatman");
         System.out.println(result);
     }
-
-
 }
